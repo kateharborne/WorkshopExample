@@ -5,7 +5,7 @@ setup(name='WorkshopExample',
       description='Random example project for coding workshop',
       url='http://github.com/kateharborne/WorkshopExample',
       author='Katherine Harborne',
-      author_email='kateharborne@gmail.com',
+      author_email='katherine.harborne@icrar.org',
       license='MIT',
       install_requires=['numpy'],
       packages=find_packages(exclude=('tests', 'doc', 'data'))
